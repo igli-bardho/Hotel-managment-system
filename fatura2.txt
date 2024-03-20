@@ -1,0 +1,12 @@
+ID 7
+Name klienti1
+MobileNumber 355675689321
+Email	k@gmail.com
+RoomNr	7
+RoomType Single Rooms 
+Bed   1 single bed
+CheckIN   2023//02//17
+CheckOut  2023//02//17
+PricePerDay  2000
+NumberOfDaysStay	1
+TotalAmount	2000.0

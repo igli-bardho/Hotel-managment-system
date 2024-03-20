@@ -1,0 +1,14 @@
+ID 2
+Name Eva
+MobileNumber 355692635963
+Email	E@gmail.com
+RoomNr	4
+RoomType Rooms with a View 
+Bed   1 large double bed
+CheckIN   2023//02//16
+CheckOut  2023//02//16
+PricePerDay  4500
+NumberOfDaysStay	
+1
+TotalAmount	
+4500.0
